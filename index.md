@@ -1,7 +1,7 @@
-# This will be the index
+# Relieve Stress
 
 ... This class is demanding but i like it :)
 
-Well this thing right might help me pass this class...
+This thing might help me to have some fun in my free time...
 
 ![Let´s Go!](motorcycle.jpg)
