@@ -5,3 +5,5 @@
 This thing might help me to have some fun in my free time...
 
 ![Let´s Go!](motorcycle.jpg)
+
+[Free BEER!](/about.md)
